@@ -1,0 +1,10 @@
+org\web\entidad\Cursos_.class
+org\web\servicio\Conector.class
+org\web\entidad\Alumno_.class
+org\web\entidad\Profesores_.class
+org\web\entidad\Cursos.class
+org\web\modelo\Alumnoimpl.class
+org\web\entidad\Profesores.class
+org\web\entidad\Alumno.class
+org\web\escuela\Escuela.class
+org\web\interfaces\iEscuela.class
